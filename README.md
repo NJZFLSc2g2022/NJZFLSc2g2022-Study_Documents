@@ -25,6 +25,8 @@
 
 **贡献者公约**
 
-
+[https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Study_Documents/blob/main/CODE_OF_CONDUCT.md]
 
 **贡献者名单**
+
+[https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Study_Documents/blob/main/contributors.md]
