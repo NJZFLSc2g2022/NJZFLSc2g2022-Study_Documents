@@ -23,10 +23,8 @@
 2.把文件发给钋锌铜
 [bzt20100105@outlook.com]
 
-**贡献者公约**
+## 贡献者
 
-[https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Study_Documents/blob/main/CODE_OF_CONDUCT.md]
+[贡献者名单](/contributors.md)
 
-**贡献者名单**
-
-[https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Study_Documents/blob/main/contributors.md]
+[贡献者公约](/CODE_OF_CONDUCT.md)
