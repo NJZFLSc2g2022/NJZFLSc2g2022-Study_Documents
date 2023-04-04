@@ -30,5 +30,5 @@ study-doc@nzcae.eu.org
 [贡献者公约](/CODE_OF_CONDUCT.md)
 
 <a href="https://mit-license.org/">
-  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1200px-MIT_logo.svg.png" alt="NZFLS 2022届2班" width="300">
+  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1200px-MIT_logo.svg.png" alt="MIT logo" width="300">
 </a>
