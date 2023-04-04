@@ -19,7 +19,7 @@
 
 1.把文件发给王泉森
 [fred.wangquansen@gmail.com]
-  
+study-doc@nzcae.eu.org
 2.把文件发给钋锌铜
 [bzt20100105@outlook.com]
 
