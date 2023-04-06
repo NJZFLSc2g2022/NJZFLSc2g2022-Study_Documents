@@ -14,3 +14,21 @@
 </p>
 
 # 这是一个用来分享学习资料的地方，欢迎上传！
+
+## 提交方法
+
+1.把文件发给王泉森
+[fred.wangquansen@gmail.com]
+study-doc@nzcae.eu.org
+2.把文件发给钋锌铜
+[bzt20100105@outlook.com]
+
+## 贡献者
+
+[贡献者名单](/contributors.md)
+
+[贡献者公约](/CODE_OF_CONDUCT.md)
+
+<a href="https://mit-license.org/">
+  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1200px-MIT_logo.svg.png" alt="MIT logo" width="300">
+</a>
