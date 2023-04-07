@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="">
 </p>
 
-# 这是一个用来分享学习资料的地方，欢迎上传！
+# 学习资料
+
+这是一个用来分享学习资料的地方，欢迎上传！
 
 ## 提交方法
 
