@@ -17,6 +17,8 @@
 
 ## 提交方法
 
+## [推荐]邮箱
+
 1.把文件发给王泉森
 [fred.wangquansen@gmail.com]
 study-doc@nzcae.eu.org
@@ -29,6 +31,8 @@ study-doc@nzcae.eu.org
 
 [贡献者公约](/CODE_OF_CONDUCT.md)
 
+## License
+
 <a href="https://mit-license.org/">
-  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1200px-MIT_logo.svg.png" alt="MIT logo" width="300">
+  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1200px-MIT_logo.svg.png" alt="MIT logo" width="250">
 </a>
