@@ -37,7 +37,7 @@
 
 ## 电子教材
 
-国家中小学教育平台（https://basic.smartedu.cn/tchMaterial）
+国家中小学教育平台https://basic.smartedu.cn/tchMaterial
 
 ## 信息
 
