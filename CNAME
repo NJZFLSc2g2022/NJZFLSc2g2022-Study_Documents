@@ -1,1 +1,2 @@
 study-doc.nzcae.eu.org
+git config http.postBuffer 524288000
