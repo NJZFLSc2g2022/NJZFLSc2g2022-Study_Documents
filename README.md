@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
-  <img width="150" src="https://emoji.nzcae.eu.org/NZFLS 2022届2班.png" alt="NZFLS 2022届2班" width="300">
+  <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022届2班.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
 南京郑和外国语学校2022届2班-学习资料
@@ -19,13 +19,11 @@
 
 ## 提交方法
 
-## [推荐]邮箱
+### [推荐]邮箱
 
-1.把文件发给王泉森
-[fred.wangquansen@gmail.com]
-study-doc@nzcae.eu.org
-2.把文件发给钋锌铜
-[bzt20100105@outlook.com]
+- [推荐]学习资料专用邮箱[study-doc@nzcae.eu.org](mailto:study-doc@nzcae.eu.org)
+- 王泉森[fred.wangquansen@gmail.com](mailto:fred.wangquansen@gmail.com)
+- 钋锌铜[bzt20100105@outlook.com](mailto:bzt20100105@outlook.com)
 
 ## 贡献者
 
