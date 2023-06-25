@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
-  <img width="150" src="https://emoji.nzcae.eu.org/NZFLS 2022届2班.png" alt="NZFLS 2022届2班" width="300">
+<a href="https://github.com/NJZFLSc2g2022">
+  <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022届2班.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
 南京郑和外国语学校2022届2班-学习资料
@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/main%20contributor-Zitong%20Bu-brightgreen" alt="">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="">
 </p>
-<h2 align="center">数学学习资料</h2>
+<h1 align="center">数学学习资料</h2>
 <h2 align="center">七年级上册</h2>
 
