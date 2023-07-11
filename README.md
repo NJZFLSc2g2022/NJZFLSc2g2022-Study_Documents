@@ -19,8 +19,6 @@
 
 ## 提交方法
 
-### [推荐]邮箱
-
 - [推荐]学习资料专用邮箱[study-doc@nzcae.eu.org](mailto:study-doc@nzcae.eu.org)
 - 王泉森[fred.wangquansen@gmail.com](mailto:fred.wangquansen@gmail.com)
 - 钋锌铜[bzt20100105@outlook.com](mailto:bzt20100105@outlook.com)
