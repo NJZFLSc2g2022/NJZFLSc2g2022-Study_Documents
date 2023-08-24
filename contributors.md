@@ -17,15 +17,15 @@
 
 ## 语文Chinese
 
-**周鲒**老师Tchr.***Jou Jie***
+*Tchr.**Jou Jie*** **周鲒**老师(初一Gr.7)
 
 ## 数学Mathematics
 
-**赵正飞**老师Tchr.***Jau Jeng Fei***
+*Tchr.**Jau Jeng Fei*** **赵正飞**老师
 
 ## 英语English
 
-刘岩老师
+*Tchr.**Liou Yan*** **刘岩**老师
 
 ## 政治Politics
 
