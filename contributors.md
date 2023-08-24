@@ -17,7 +17,9 @@
 
 ## 语文Chinese
 
-*Tchr.**Jou Jie*** **周鲒**老师(初一Gr.7)
+| -------- | -----------|
+| 初一Gr.7 | *Tchr.**Jou Jie*** **周鲒**老师 |
+| 初二Gr.8 | *Tchr.**Wang Ting*** **王婷**老师 |
 
 ## 数学Mathematics
 
