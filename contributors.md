@@ -17,11 +17,11 @@
 
 ## 语文
 
-周鲒老师
+周鲒老师Tchr.*Jou Jie*
 
 ## 数学
 
-赵正飞老师
+赵正飞老师Tchr.*Jau Jeng Fei*
 
 ## 英语
 
@@ -37,7 +37,7 @@
 
 ## 电子教材
 
-[国家中小学教育平台](https://basic.smartedu.cn/tchMaterial)
+[国家中小学教育平台National Primary and Middle Education Platform](https://basic.smartedu.cn/tchMaterial)
 
 ## 信息
 
