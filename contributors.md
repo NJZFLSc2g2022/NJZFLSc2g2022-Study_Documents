@@ -41,5 +41,5 @@
 
 ## 信息Information & Technology
 
-*Stent.**Wang Chiuan Sen*** **王泉森**同学
+*Stdnt.**Wang Chiuan Sen*** **王泉森**同学
 
