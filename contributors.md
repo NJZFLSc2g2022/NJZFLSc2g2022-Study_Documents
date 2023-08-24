@@ -15,31 +15,31 @@
 
 # 贡献者名单
 
-## 语文
+## 语文Chinese
 
-周鲒老师Tchr.*Jou Jie*
+**周鲒**老师Tchr.***Jou Jie***
 
-## 数学
+## 数学Mathematics
 
-赵正飞老师Tchr.*Jau Jeng Fei*
+**赵正飞**老师Tchr.***Jau Jeng Fei***
 
-## 英语
+## 英语English
 
 刘岩老师
 
-## 政治
+## 政治Politics
 
 鲁晶晶老师
 
-## 历史
+## 历史History
 
 王春阳老师
 
-## 电子教材
+## 电子教材e-Textbook
 
 [国家中小学教育平台National Primary and Middle Education Platform](https://basic.smartedu.cn/tchMaterial)
 
-## 信息
+## 信息Information & Technology
 
 王泉森
 
