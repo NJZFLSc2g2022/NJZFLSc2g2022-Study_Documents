@@ -29,11 +29,11 @@
 
 ## 政治Politics
 
-鲁晶晶老师
+*Tchr.**Lu Jing Jing*** **鲁晶晶**老师
 
 ## 历史History
 
-王春阳老师
+*Tchr.**Wang Chuen Yang*** **王春阳**老师
 
 ## 电子教材e-Textbook
 
@@ -41,5 +41,5 @@
 
 ## 信息Information & Technology
 
-王泉森
+*Stent.**Wang Chiuan Sen*** **王泉森**同学
 
