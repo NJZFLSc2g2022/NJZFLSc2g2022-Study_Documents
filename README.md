@@ -18,6 +18,7 @@
 这是一个用来分享学习资料的地方，欢迎上传！
 
 ## 提交方法
+### 发送邮件
 
 - **[推荐]**学习资料专用邮箱[study-doc@nzcae.eu.org](mailto:study-doc@nzcae.eu.org)
 - 
