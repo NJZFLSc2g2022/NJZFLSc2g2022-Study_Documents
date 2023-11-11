@@ -20,12 +20,13 @@
 ## 提交方法
 ### [推荐]发送邮件
 
-学习资料专用邮箱[study-doc@nzcae.eu.org](mailto:study-doc@nzcae.eu.org)
+**专用邮箱：[study-doc@nzcae.eu.org](mailto:study-doc@nzcae.eu.org)**
 
+### 发送拉取请求(Pull Requests)
 
 ## 贡献者
 
-[贡献者名单](/contributors.md)
+[贡献者名单](/contributors)
 
 [贡献者公约](/CODE_OF_CONDUCT.md)
 
